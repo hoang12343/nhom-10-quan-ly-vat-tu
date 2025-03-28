@@ -1,3 +1,5 @@
+package view;
+
 
 import java.awt.Container;
 
@@ -183,23 +185,5 @@ public class CTThongKe extends javax.swing.JFrame {
     private javax.swing.JTable tblChiTietPhieu;
     // End of variables declaration//GEN-END:variables
 
-    private void setDefaultCloseOperation(int EXIT_ON_CLOSE) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
 
-    private void setDefaultCloseOperation(int EXIT_ON_CLOSE) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-
-    private Object getContentPane() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-
-    private Container getContentPane() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-
-    private void pack() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
 }
